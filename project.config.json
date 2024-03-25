@@ -1,0 +1,269 @@
+{
+  "description": "项目配置文件，详见文档：https://developers.weixin.qq.com/miniprogram/dev/devtools/projectconfig.html",
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
+  "setting": {
+    "urlCheck": true,
+    "es6": true,
+    "enhance": true,
+    "postcss": true,
+    "preloadBackgroundData": false,
+    "minified": true,
+    "newFeature": true,
+    "coverView": true,
+    "nodeModules": true,
+    "autoAudits": false,
+    "showShadowRootInWxmlPanel": true,
+    "scopeDataCheck": false,
+    "uglifyFileName": true,
+    "checkInvalidKey": true,
+    "checkSiteMap": true,
+    "uploadWithSourceMap": true,
+    "compileHotReLoad": false,
+    "lazyloadPlaceholderEnable": false,
+    "useMultiFrameRuntime": true,
+    "useApiHook": true,
+    "useApiHostProcess": true,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    },
+    "enableEngineNative": false,
+    "useIsolateContext": true,
+    "userConfirmedBundleSwitch": false,
+    "packNpmManually": false,
+    "packNpmRelationList": [],
+    "minifyWXSS": true,
+    "showES6CompileOption": false
+  },
+  "compileType": "miniprogram",
+  "libVersion": "2.12.2",
+  "appid": "wx68094bc358e0d517",
+  "projectname": "wechat1211",
+  "cloudfunctionTemplateRoot": "",
+  "simulatorType": "wechat",
+  "simulatorPluginLibVersion": {},
+  "editorSetting": {
+    "tabIndent": "insertSpaces",
+    "tabSize": 2
+  },
+  "condition": {
+    "miniprogram": {
+      "list": [
+        {
+          "name": "企业信息",
+          "pathName": "pages/about/about",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "页面",
+          "pathName": "pages/pagelist/pagelist",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "动态发布页",
+          "pathName": "pages/postopic/postopic",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "分类",
+          "pathName": "pages/cate/cate",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "付费阅读",
+          "pathName": "pages/payment/payment",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "我的鼓励码",
+          "pathName": "pages/authorcode/authorcode",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "随机文章",
+          "pathName": "pages/rand/rand",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "积分排行",
+          "pathName": "pages/ranking/ranking",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "我的",
+          "pathName": "pages/myself/myself",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "赚积分",
+          "pathName": "pages/earnIntegral/earnIntegral",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "用户列表",
+          "pathName": "pages/userlist/userlist",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "视频列表",
+          "pathName": "pages/videolist/videolist",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "视频列表",
+          "pathName": "pages/videolist/videolist",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "动态",
+          "pathName": "pages/social/social",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "积分等级说明",
+          "pathName": "pages/myinfo/myinfo",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "投稿",
+          "pathName": "pages/addarticle/addarticle",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "文章详情页",
+          "pathName": "pages/detail/detail",
+          "query": "id=2465",
+          "scene": null
+        },
+        {
+          "name": "我的预约",
+          "pathName": "pages/mymessage/mymessage",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "作者主页",
+          "pathName": "pages/author/author",
+          "query": "userid=1&postype=post",
+          "scene": null
+        },
+        {
+          "name": "动态详情页",
+          "pathName": "pages/socialdetail/socialdetail",
+          "query": "id=5241",
+          "scene": null
+        },
+        {
+          "name": "图片列表",
+          "pathName": "pages/photolist/photolist",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "音频合集",
+          "pathName": "pages/audiolist/audiolist",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "文件合集",
+          "pathName": "pages/filelist/filelist",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "管理中心",
+          "pathName": "pages/admincenter/admincenter",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "消息",
+          "pathName": "pages/notice/notice",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "视频图片列表",
+          "pathName": "pages/common/media-center/media-list/media-list",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "发布文章",
+          "pathName": "pages/addarticle/addarticle",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "搜索",
+          "pathName": "pages/search/search",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/detail/detail",
+          "pathName": "pages/detail/detail",
+          "query": "id=6317",
+          "scene": null
+        },
+        {
+          "name": "首页模拟二维码进入",
+          "pathName": "pages/index/index",
+          "query": "",
+          "scene": 1011
+        },
+        {
+          "name": "直播",
+          "pathName": "pages/live/live",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/shop/index/index",
+          "pathName": "pages/shop/index/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/readlog/readlog",
+          "pathName": "pages/logs/logs",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/postpraise/postpraise",
+          "pathName": "pages/postpraise/postpraise",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/settings/settings",
+          "pathName": "pages/settings/settings",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}
